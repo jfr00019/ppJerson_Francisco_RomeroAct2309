@@ -6,14 +6,16 @@
 #ignorar archivos de Microsoft Word
 
 *.doc
- *.doxx
+
+*.doxx
 
 
 
 #ignorar archivos de Microsoft Excel
 
 *.xls
- *.xlsx
+
+*.xlsx
 
 
 
