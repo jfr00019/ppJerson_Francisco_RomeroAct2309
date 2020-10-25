@@ -1,0 +1,27 @@
+# Creado por Jerson Romero
+#Archivos a ignorar
+
+
+
+#ignorar archivos de Microsoft Word
+
+*.doc
+ *.doxx
+
+
+
+#ignorar archivos de Microsoft Excel
+
+*.xls
+ *.xlsx
+
+
+
+
+
+#Imagenes gif
+
+*.gif
+
+#Todos los archivos de la carpeta configuracion
+configuracion/
